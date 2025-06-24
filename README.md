@@ -30,12 +30,6 @@ A simple and stylish **Tic Tac Toe** game built using HTML, CSS, and JavaScript.
 
 ---
 
-## 📷 Screenshot
-
-_You can upload a screenshot named `screenshot.png` to show how it looks._
-
----
-
 ## 🙋‍♀️ Author
 
 **Kanupriya Jindal**  
