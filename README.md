@@ -30,6 +30,12 @@ A simple and stylish **Tic Tac Toe** game built using HTML, CSS, and JavaScript.
 
 ---
 
+## 🚀 Live Demo
+
+👉 [Click here to play Tic Tac Toe](https://Kanupriya-jindal.github.io/tic-tac-toe-game/)
+
+---
+
 ## 🙋‍♀️ Author
 
 **Kanupriya Jindal**  
@@ -37,6 +43,3 @@ A simple and stylish **Tic Tac Toe** game built using HTML, CSS, and JavaScript.
 
 ---
 
-## 🚀 Live Demo
-
-👉 [Click here to play Tic Tac Toe](https://Kanupriya-jindal.github.io/tic-tac-toe-game/)
